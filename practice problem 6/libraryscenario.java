@@ -4,7 +4,7 @@ public class libraryscenario {
         public String BookName, BookAuthor, YearofPub, Status;
         public float Price;
         public void AddNewBooks(){
-
+            System.out.println("New book added!");
         }
         public void DeleteBooks(){
 
